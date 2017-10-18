@@ -1,7 +1,7 @@
 package com.zheng.rpc.sample.service.impl;
 
+import com.zheng.rpc.annotation.RpcService;
 import com.zheng.rpc.sample.service.HelloService;
-import com.zheng.rpc.server.annotation.RpcService;
 
 /**
  * 示例服务实现
